@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/mainCF.py" line="136" />
+    <bookmark url="file://$PROJECT_DIR$/mainFun.py" line="188" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e10be61f-5fb9-401e-93cf-e57a5a86a89d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Implicit/ALS_WR.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Implicit/BPR.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Evaluation.py" afterPath="$PROJECT_DIR$/Evaluation/Evaluation.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ItemCF.py" afterPath="$PROJECT_DIR$/ItemBase/ItemCF.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ItemCF_IUF.py" afterPath="$PROJECT_DIR$/ItemBase/ItemCF_IUF.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LFM.py" afterPath="$PROJECT_DIR$/LFM/LFM.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UserCF.py" afterPath="$PROJECT_DIR$/UserBase/UserCF.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UserCF_IIF.py" afterPath="$PROJECT_DIR$/UserBase/UserCF_IIF.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/implict(BPRALS).py" afterPath="$PROJECT_DIR$/Implicit/implict(BPRALS).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mainCF.py" afterPath="$PROJECT_DIR$/mainFun.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/preData.py" afterPath="$PROJECT_DIR$/testdata/preData.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/small_data.csv" afterPath="$PROJECT_DIR$/testdata/small_data.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_expovariate.py" afterPath="$PROJECT_DIR$/testdata/test_expovariate.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/u.data" afterPath="$PROJECT_DIR$/testdata/u.data" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,47 +31,37 @@
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RecSys$test_expovariate__1_.coverage" NAME="test_expovariate (1) Coverage Results" MODIFIED="1526993016154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testdata" />
     <SUITE FILE_PATH="coverage/RecSys$test_expovariate.coverage" NAME="test_expovariate Coverage Results" MODIFIED="1526451797626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RecSys$mainCF.coverage" NAME="mainCF Coverage Results" MODIFIED="1526979594524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RecSys$preData.coverage" NAME="preData Coverage Results" MODIFIED="1526956840929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RecSys$implict_BPRALS_.coverage" NAME="implict(BPRALS) Coverage Results" MODIFIED="1526974723785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecSys$implict_BPRALS___1_.coverage" NAME="implict(BPRALS) (1) Coverage Results" MODIFIED="1526993615533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Implicit" />
+    <SUITE FILE_PATH="coverage/RecSys$ALS_WR.coverage" NAME="ALS_WR Coverage Results" MODIFIED="1527001930068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Implicit" />
     <SUITE FILE_PATH="coverage/RecSys$lightfm.coverage" NAME="lightfm Coverage Results" MODIFIED="1526454231227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/anacondainstall/Lib/site-packages/lightfm" />
+    <SUITE FILE_PATH="coverage/RecSys$mainFun.coverage" NAME="mainFun Coverage Results" MODIFIED="1527052008437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="implict(BPRALS).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/implict(BPRALS).py">
+      <file leaf-file-name="mainFun.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mainFun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="44" column="72" lean-forward="false" selection-start-line="44" selection-start-column="72" selection-end-line="44" selection-end-column="72" />
-              <folding>
-                <element signature="e#36#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <first_editor relative-caret-position="474">
+                <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainCF.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mainCF.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3645">
-              <caret line="135" column="26" lean-forward="false" selection-start-line="135" selection-start-column="26" selection-end-line="135" selection-end-column="26" />
-              <folding>
-                <element signature="e#92#105#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -76,6 +81,7 @@
       <find>Recommendation</find>
       <find>random.expovariate</find>
       <find>plays</find>
+      <find>artists</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,6 +99,20 @@
         <option value="$PROJECT_DIR$/LFM.py" />
         <option value="$PROJECT_DIR$/implict(BPRALS).py" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/testdata/test_expovariate.py" />
+        <option value="$PROJECT_DIR$/testdata/preData.py" />
+        <option value="$PROJECT_DIR$/LFM/LFM.py" />
+        <option value="$PROJECT_DIR$/ItemBase/ItemCF_IUF.py" />
+        <option value="$PROJECT_DIR$/Evaluation/Evaluation.py" />
+        <option value="$PROJECT_DIR$/Implicit/implict(BPRALS).py" />
+        <option value="$PROJECT_DIR$/Implicit/BPR.py" />
+        <option value="$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/06-More-Hyper-Parameters-in-kNN-and-Grid-Search/06-More-Hyper-Parameters-in-kNN-and-Grid-Search.ipynb" />
+        <option value="$PROJECT_DIR$/Implicit/ALS_WR.py" />
+        <option value="$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/05-Hyper-Parameters/05-Hyper-Parameters.ipynb" />
+        <option value="$PROJECT_DIR$/ItemBase/ItemCF.py" />
+        <option value="$PROJECT_DIR$/mainFun.py" />
+        <option value="$PROJECT_DIR$/UserBase/UserCF_IIF.py" />
+        <option value="$PROJECT_DIR$/UserBase/UserCF.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -104,12 +124,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1028" />
+    <option name="y" value="168" />
+    <option name="width" value="1364" />
+    <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -125,6 +147,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,18 +156,55 @@
               <item name="RecSys" type="b2602c69:ProjectViewProjectNode" />
               <item name="RecSys" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RecSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecSys" type="462c0819:PsiDirectoryNode" />
+              <item name="Evaluation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecSys" type="462c0819:PsiDirectoryNode" />
+              <item name="Implicit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecSys" type="462c0819:PsiDirectoryNode" />
+              <item name="ItemBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecSys" type="462c0819:PsiDirectoryNode" />
+              <item name="LFM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecSys" type="462c0819:PsiDirectoryNode" />
+              <item name="testdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecSys" type="462c0819:PsiDirectoryNode" />
+              <item name="UserBase" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Issue.Navigation" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/07-Feature-Scaling/07-Feature-Scaling.ipynb" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\机器学习\推荐系统\推荐系统必看的代码\RecSys\testdata" />
+      <recent name="D:\机器学习\推荐系统\推荐系统必看的代码\RecSys\Evaluation" />
+      <recent name="D:\机器学习\推荐系统\推荐系统必看的代码\RecSys\Implicit" />
+      <recent name="D:\机器学习\推荐系统\推荐系统必看的代码\RecSys\LFM" />
+      <recent name="D:\机器学习\推荐系统\推荐系统必看的代码\RecSys\UserBase" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,39 +218,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mainCF">
-    <configuration name="implict(BPRALS)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mainFun">
+    <configuration name="ALS_WR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implicit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RecSys" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/implict(BPRALS).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implicit/ALS_WR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="lightfm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="implict(BPRALS) (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/anacondainstall/Lib/site-packages/lightfm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implicit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RecSys" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:/anacondainstall/Lib/site-packages/lightfm/lightfm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implicit/implict(BPRALS).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,12 +268,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RecSys" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainCF.py" />
+      <option name="SCRIPT_NAME" value="D:\机器学习\推荐系统\推荐系统必看的代码\RecSys\mainFun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="preData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainFun" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -225,43 +286,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RecSys" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainFun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test_expovariate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_expovariate (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testdata" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="RecSys" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_expovariate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testdata/test_expovariate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.mainCF" />
-      <item index="1" class="java.lang.String" itemvalue="Python.implict(BPRALS)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.lightfm" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_expovariate" />
-      <item index="4" class="java.lang.String" itemvalue="Python.preData" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_expovariate (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mainFun" />
+      <item index="3" class="java.lang.String" itemvalue="Python.implict(BPRALS) (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ALS_WR" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mainCF" />
-        <item index="1" class="java.lang.String" itemvalue="Python.implict(BPRALS)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.preData" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lightfm" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_expovariate" />
+        <item index="0" class="java.lang.String" itemvalue="Python.mainFun" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ALS_WR" />
+        <item index="2" class="java.lang.String" itemvalue="Python.implict(BPRALS) (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_expovariate (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mainCF" />
       </list>
     </recent_temporary>
   </component>
@@ -317,21 +378,31 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13486141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19672132" sideWeight="0.505295" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3373102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22451194" sideWeight="0.494705" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15565032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28416485" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28416485" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -339,7 +410,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -387,54 +457,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/implict(BPRALS).py</url>
-          <line>359</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/implict(BPRALS).py</url>
-          <line>363</line>
-          <option name="timeStamp" value="155" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/implict(BPRALS).py</url>
-          <line>364</line>
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/implict(BPRALS).py</url>
-          <line>365</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/implict(BPRALS).py</url>
-          <line>369</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LFM.py</url>
+          <url>file://$PROJECT_DIR$/LFM/LFM.py</url>
           <line>70</line>
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/implict(BPRALS).py</url>
-          <line>23</line>
-          <option name="timeStamp" value="167" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/implict(BPRALS).py</url>
-          <line>28</line>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mainCF.py</url>
-          <line>140</line>
-          <option name="timeStamp" value="173" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mainCF.py</url>
-          <line>122</line>
+          <url>file://$PROJECT_DIR$/mainFun.py</url>
+          <line>165</line>
           <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mainFun.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mainFun.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="176" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -447,102 +487,19 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="175" />
+      <option name="time" value="177" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="list(small_data['play'])" language="Python" />
         <watch expression="test" language="Python" />
+        <watch expression="small_data.artist.cat.categories" language="Python" />
+        <watch expression="plays.tocsr()" language="Python" />
+        <watch expression="plays.artist.cat.codes" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mainCF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="92" column="7" lean-forward="false" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Evaluation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ItemCF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainCF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="92" column="7" lean-forward="true" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCF_IIF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/anacondainstall/Lib/site-packages/scipy/sparse/lil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="464" column="0" lean-forward="false" selection-start-line="464" selection-start-column="0" selection-end-line="464" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/anacondainstall/Lib/site-packages/implicit/recommender_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/anacondainstall/Lib/site-packages/numpy/__config__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/anacondainstall/Lib/site-packages/implicit/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/1097614694/FileRecv/_3_static_features.py" />
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/1097614694/FileRecv/csv_data_less_memory (1).py" />
-    <entry file="file://D:/anacondainstall/pkgs/scipy-0.19.1-py36h7565378_3/Lib/site-packages/scipy/sparse/dok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="452" column="8" lean-forward="false" selection-start-line="452" selection-start-column="8" selection-end-line="452" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/anacondainstall/pkgs/scipy-0.19.1-py36h7565378_3/Lib/site-packages/scipy/sparse/csr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -604,13 +561,6 @@
         <state relative-caret-position="1792">
           <caret line="192" column="56" lean-forward="false" selection-start-line="192" selection-start-column="39" selection-end-line="192" selection-end-column="56" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_expovariate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -715,60 +665,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ItemCF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/anacondainstall/Lib/site-packages/implicit/approximate_als.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="186" column="8" lean-forward="false" selection-start-line="186" selection-start-column="8" selection-end-line="186" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Evaluation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ItemCF_IUF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LFM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="87" column="19" lean-forward="false" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/u.data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/small_data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -782,39 +682,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainCF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3645">
-          <caret line="135" column="26" lean-forward="false" selection-start-line="135" selection-start-column="26" selection-end-line="135" selection-end-column="26" />
-          <folding>
-            <element signature="e#92#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1701">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/u.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/01-kNN-Basics/01-kNN-Basics.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/02-kNN-in-scikit-learn/02-kNN-in-scikit-learn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/02-kNN-in-scikit-learn/kNN_function/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/implict(BPRALS).py">
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/03-Test-Our-Algorithm/03-Test-Our-Algorithm.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/03-Test-Our-Algorithm/playML/model_selection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="44" column="72" lean-forward="false" selection-start-line="44" selection-start-column="72" selection-end-line="44" selection-end-column="72" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/03-Test-Our-Algorithm/playML/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1157">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/04-Accuracy-Score/04-Accuracy-Score.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/07-Feature-Scaling/07-Feature-Scaling.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/06-More-Hyper-Parameters-in-kNN-and-Grid-Search/06-More-Hyper-Parameters-in-kNN-and-Grid-Search.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3玩转机器学习课程/课程源代码/Play-with-Machine-Learning-Algorithms/04-kNN/05-Hyper-Parameters/05-Hyper-Parameters.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserBase/UserCF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserBase/UserCF_IIF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#36#54#0" expanded="true" />
+            <element signature="e#73#84#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/preData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/small_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/test_expovariate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LFM/LFM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ItemBase/ItemCF_IUF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ItemBase/ItemCF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implicit/implict(BPRALS).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implicit/BPR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2997">
+          <caret line="121" column="28" lean-forward="true" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implicit/ALS_WR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="101" column="18" lean-forward="true" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Evaluation/Evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <first_editor relative-caret-position="474">
+            <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
@@ -823,6 +881,14 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainFun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>

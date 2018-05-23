@@ -1,6 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+create on 2018-5-22 20:59:44
+by：weifeng
+
+"""
 ###测试指数分布
 
-#####
 import numpy as np
 import matplotlib.pyplot as plt  ##使用matplot的子模块
 import random
